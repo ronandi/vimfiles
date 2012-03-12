@@ -20,7 +20,6 @@ set hidden
 set ttyfast
 set wildmenu
 set wildmode=list:longest
-set visualbell
 set ruler
 set relativenumber
 set shiftwidth=4
