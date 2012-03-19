@@ -37,3 +37,6 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/java_getset"]
+	path = bundle/java_getset
+	url = https://github.com/vim-scripts/java_getset.vim.git
