@@ -63,7 +63,7 @@ let g:Powerline_cache_enabled=1
 let g:Powerline_symbols = 'fancy'
 if has("gui_running")
     set guioptions=-t
-    set guifont=Terminus:h13
+    set guifont=Terminus\ for\ Powerline:h13
 endif
 nnoremap <up> <nop>
 nnoremap <down> <nop>
