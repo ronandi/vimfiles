@@ -1,10 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =8
-let g:netrw_dirhist_1='/home/rohit/Iterm2-to-XDefaults/src'
-let g:netrw_dirhist_2='/home/rohit/Iterm2-to-XDefaults'
-let g:netrw_dirhist_3='/home/rohit/.oh-my-zsh/custom/example'
-let g:netrw_dirhist_4='/Users/rohitkumar/Classes/phy109'
-let g:netrw_dirhist_5='/Users/rohitkumar/Classes/cs352/programs/pa1/src'
-let g:netrw_dirhist_6='/Users/rohitkumar/Classes/cs352/programs/pa1'
-let g:netrw_dirhist_7='/Users/rohitkumar/.vim/bundle'
-let g:netrw_dirhist_8='/Users/rohitkumar/rails_projects/sample_app'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/rohitkumar/git/cs352-bt/src'
+let g:netrw_dirhist_2='/Users/rohitkumar/git/cs352-bt/torrents'
+let g:netrw_dirhist_3='/Users/rohitkumar/git/cs352-bt/src'
+let g:netrw_dirhist_4='/Users/rohitkumar/rails_projects/sample_app/app/assets/stylesheets'

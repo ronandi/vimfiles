@@ -1,4 +1,3 @@
-source ~/.vim/bundle/autotag.vim
 set nocompatible   " Disable vi-compatibility
 let mapleader=","
 nnoremap <leader><space> :noh<cr>
