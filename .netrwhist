@@ -1,7 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/Users/rohitkumar/git/cs352-bt/src'
-let g:netrw_dirhist_2='/Users/rohitkumar/git/cs352-bt/torrents'
-let g:netrw_dirhist_3='/Users/rohitkumar/git/cs352-bt/src'
-let g:netrw_dirhist_4='/Users/rohitkumar/rails_projects/sample_app/app/assets/stylesheets'
-let g:netrw_dirhist_5='/Users/rohit/saas/hw2_rottenpotatoes/app/views/movies'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/rohit/node/apod/bin'
